@@ -3,7 +3,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Безымянная страница</title>
 <meta name="generator" content="WYSIWYG Web Builder 10 - http://www.wysiwygwebbuilder.com">
-<link href="ico.png" rel="shortcut icon">
+<link href="ava.jpg" rel="shortcut icon">
 <link href="lsg.css" rel="stylesheet" type="text/css">
 <link href="index.css" rel="stylesheet" type="text/css">
 </head>
