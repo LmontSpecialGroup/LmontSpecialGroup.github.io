@@ -21,9 +21,9 @@ body
 {
    background-color: #1D1C1A;
    background-image: url(images/bandg.jpg);
+   background-attachment: fixed;
    background-position: left top;
    background-repeat: no-repeat;
-   background-size: содержит;
    color: #000000;
    font-family: Arial;
    font-size: 13px;
