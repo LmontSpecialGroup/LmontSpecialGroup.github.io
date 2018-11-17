@@ -6,24 +6,24 @@ div#space
 {
    width: 1px;
    height: 50%;
-   margin-bottom: -405px;
+   margin-bottom: -404px;
    float:left
 }
 div#container
 {
-   width: 1005px;
-   height: 810px;
+   width: 706px;
+   height: 809px;
    margin: 0 auto;
    position: relative;
    clear: left;
 }
 body
 {
-   background-color: #0D1C23;
+   background-color: #0C1B22;
    background-image: url(images/bandg.jpg);
-   background-attachment: fixed;
    background-position: left top;
    background-repeat: no-repeat;
+   background-size: содержит;
    color: #000000;
    font-family: Arial;
    font-size: 13px;
